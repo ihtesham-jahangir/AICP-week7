@@ -39,4 +39,4 @@ The program is designed to help the supermarket efficiently record and manage do
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/supermarket-charity-donation.git
+   git clone https://github.com/ihtesham-jahangir/AICP-week7
